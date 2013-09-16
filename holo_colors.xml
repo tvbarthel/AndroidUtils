@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="holo_blue_opacity_10_p">#1933B5E5</color>
+    <color name="holo_blue_opacity_20_p">#3333B5E5</color>
+    <color name="holo_blue_opacity_30_p">#4B33B5E5</color>
+    <color name="holo_blue_opacity_40_p">#6533B5E5</color>
+    <color name="holo_blue_opacity_50_p">#7D33B5E5</color>
+    <color name="holo_blue_opacity_60_p">#9933B5E5</color>
+    <color name="holo_blue_opacity_70_p">#B233B5E5</color>
+    <color name="holo_blue_opacity_80_p">#CC33B5E5</color>
+    <color name="holo_blue_opacity_90_p">#E533B5E5</color>
+    <color name="holo_blue">#FF33B5E5</color>
+
+    <color name="holo_blue_dark_opacity_10_p">#190099CC</color>
+    <color name="holo_blue_dark_opacity_20_p">#330099CC</color>
+    <color name="holo_blue_dark_opacity_30_p">#4B0099CC</color>
+    <color name="holo_blue_dark_opacity_40_p">#650099CC</color>
+    <color name="holo_blue_dark_opacity_50_p">#7D0099CC</color>
+    <color name="holo_blue_dark_opacity_60_p">#990099CC</color>
+    <color name="holo_blue_dark_opacity_70_p">#B20099CC</color>
+    <color name="holo_blue_dark_opacity_80_p">#CC0099CC</color>
+    <color name="holo_blue_dark_opacity_90_p">#E50099CC</color>
+    <color name="holo_blue_dark">#FF0099CC</color>
+
+    <color name="holo_purple_opacity_10_p">#19AA66CC</color>
+    <color name="holo_purple_opacity_20_p">#33AA66CC</color>
+    <color name="holo_purple_opacity_30_p">#4BAA66CC</color>
+    <color name="holo_purple_opacity_40_p">#65AA66CC</color>
+    <color name="holo_purple_opacity_50_p">#7DAA66CC</color>
+    <color name="holo_purple_opacity_60_p">#99AA66CC</color>
+    <color name="holo_purple_opacity_70_p">#B2AA66CC</color>
+    <color name="holo_purple_opacity_80_p">#CCAA66CC</color>
+    <color name="holo_purple_opacity_90_p">#E5AA66CC</color>
+    <color name="holo_purple">#FFAA66CC</color>
+
+    <color name="holo_purple_dark_opacity_10_p">#199933CC</color>
+    <color name="holo_purple_dark_opacity_20_p">#339933CC</color>
+    <color name="holo_purple_dark_opacity_30_p">#4B9933CC</color>
+    <color name="holo_purple_dark_opacity_40_p">#659933CC</color>
+    <color name="holo_purple_dark_opacity_50_p">#7D9933CC</color>
+    <color name="holo_purple_dark_opacity_60_p">#999933CC</color>
+    <color name="holo_purple_dark_opacity_70_p">#B29933CC</color>
+    <color name="holo_purple_dark_opacity_80_p">#CC9933CC</color>
+    <color name="holo_purple_dark_opacity_90_p">#E59933CC</color>
+    <color name="holo_purple_dark">#FF9933CC</color>
+
+    <color name="holo_green_opacity_10_p">#1999CC00</color>
+    <color name="holo_green_opacity_20_p">#3399CC00</color>
+    <color name="holo_green_opacity_30_p">#4B99CC00</color>
+    <color name="holo_green_opacity_40_p">#6599CC00</color>
+    <color name="holo_green_opacity_50_p">#7D99CC00</color>
+    <color name="holo_green_opacity_60_p">#9999CC00</color>
+    <color name="holo_green_opacity_70_p">#B299CC00</color>
+    <color name="holo_green_opacity_80_p">#CC99CC00</color>
+    <color name="holo_green_opacity_90_p">#E599CC00</color>
+    <color name="holo_green">#FF99CC00</color>
+
+    <color name="holo_green_dark_opacity_10_p">#19669900</color>
+    <color name="holo_green_dark_opacity_20_p">#33669900</color>
+    <color name="holo_green_dark_opacity_30_p">#4B669900</color>
+    <color name="holo_green_dark_opacity_40_p">#65669900</color>
+    <color name="holo_green_dark_opacity_50_p">#7D669900</color>
+    <color name="holo_green_dark_opacity_60_p">#99669900</color>
+    <color name="holo_green_dark_opacity_70_p">#B2669900</color>
+    <color name="holo_green_dark_opacity_80_p">#CC669900</color>
+    <color name="holo_green_dark_opacity_90_p">#E5669900</color>
+    <color name="holo_green_dark">#FF669900</color>
+
+    <color name="holo_orange_opacity_10_p">#19FFBB33</color>
+    <color name="holo_orange_opacity_20_p">#33FFBB33</color>
+    <color name="holo_orange_opacity_30_p">#4BFFBB33</color>
+    <color name="holo_orange_opacity_40_p">#65FFBB33</color>
+    <color name="holo_orange_opacity_50_p">#7DFFBB33</color>
+    <color name="holo_orange_opacity_60_p">#99FFBB33</color>
+    <color name="holo_orange_opacity_70_p">#B2FFBB33</color>
+    <color name="holo_orange_opacity_80_p">#CCFFBB33</color>
+    <color name="holo_orange_opacity_90_p">#E5FFBB33</color>
+    <color name="holo_orange">#FFFFBB33</color>
+
+    <color name="holo_orange_dark_opacity_10_p">#19FF8800</color>
+    <color name="holo_orange_dark_opacity_20_p">#33FF8800</color>
+    <color name="holo_orange_dark_opacity_30_p">#4BFF8800</color>
+    <color name="holo_orange_dark_opacity_40_p">#65FF8800</color>
+    <color name="holo_orange_dark_opacity_50_p">#7DFF8800</color>
+    <color name="holo_orange_dark_opacity_60_p">#99FF8800</color>
+    <color name="holo_orange_dark_opacity_70_p">#B2FF8800</color>
+    <color name="holo_orange_dark_opacity_80_p">#CCFF8800</color>
+    <color name="holo_orange_dark_opacity_90_p">#E5FF8800</color>
+    <color name="holo_orange_dark">#FFFF8800</color>
+
+    <color name="holo_red_opacity_10_p">#19FF4444</color>
+    <color name="holo_red_opacity_20_p">#33FF4444</color>
+    <color name="holo_red_opacity_30_p">#4BFF4444</color>
+    <color name="holo_red_opacity_40_p">#65FF4444</color>
+    <color name="holo_red_opacity_50_p">#7DFF4444</color>
+    <color name="holo_red_opacity_60_p">#99FF4444</color>
+    <color name="holo_red_opacity_70_p">#B2FF4444</color>
+    <color name="holo_red_opacity_80_p">#CCFF4444</color>
+    <color name="holo_red_opacity_90_p">#E5FF4444</color>
+    <color name="holo_red">#FFFF4444</color>
+
+    <color name="holo_red_dark_opacity_10_p">#19CC0000</color>
+    <color name="holo_red_dark_opacity_20_p">#33CC0000</color>
+    <color name="holo_red_dark_opacity_30_p">#4BCC0000</color>
+    <color name="holo_red_dark_opacity_40_p">#65CC0000</color>
+    <color name="holo_red_dark_opacity_50_p">#7DCC0000</color>
+    <color name="holo_red_dark_opacity_60_p">#99CC0000</color>
+    <color name="holo_red_dark_opacity_70_p">#B2CC0000</color>
+    <color name="holo_red_dark_opacity_80_p">#CCCC0000</color>
+    <color name="holo_red_dark_opacity_90_p">#E5CC0000</color>
+    <color name="holo_red_dark">#FFCC0000</color>
+
+</resources>
